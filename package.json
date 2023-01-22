@@ -2,7 +2,7 @@
   "name": "remote-calibrator-phrases",
   "version": "0.7.0",
   "description": "Phrases for the EasyEyes remote-calibrator package.",
-  "main": "dist/main.js",
+  "main": "phrases/main.js",
   "scripts": {
     "phrases": "node fetch-languages-sheets.js",
     "prepare": "husky install"
@@ -28,7 +28,7 @@
     "prettier": "^2.8.3"
   },
   "files": [
-    "dist"
+    "phrases"
   ],
   "lint-staged": {
     "*.js": "eslint --cache --fix",

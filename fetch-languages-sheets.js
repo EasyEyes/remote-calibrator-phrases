@@ -63,7 +63,7 @@ async function processLanguageSheet() {
   const exportHandle = `export const remoteCalibratorPhrases = `
 
   fs.writeFile(
-    `${process.cwd()}/dist/main.js`,
+    `${process.cwd()}/phrases/main.js`,
     exportWarning + exportHandle + JSON.stringify(data) + '\n',
     error => {
       if (error) {
