@@ -1,0 +1,10 @@
+.cache
+package.json
+package-lock.json
+
+i18n.js
+
+*WebGazer4RC/
+lib/
+
+credentials.json

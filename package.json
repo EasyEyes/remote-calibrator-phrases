@@ -1,0 +1,37 @@
+{
+  "name": "remote-calibrator-phrases",
+  "version": "0.7.0",
+  "description": "Phrases for the EasyEyes remote-calibrator package.",
+  "main": "dist/main.js",
+  "scripts": {
+    "phrases": "node fetch-languages-sheets.js",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EasyEyes/remote-calibrator-phrases.git"
+  },
+  "author": "Peiling Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EasyEyes/remote-calibrator-phrases/issues"
+  },
+  "homepage": "https://github.com/EasyEyes/remote-calibrator-phrases#readme",
+  "dependencies": {
+    "googleapis": "^110.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
+    "prettier": "^2.8.3"
+  },
+  "files": [
+    "dist"
+  ],
+  "lint-staged": {
+    "*.js": "eslint --cache --fix",
+    "*.{js,css,md}": "prettier --write"
+  }
+}
