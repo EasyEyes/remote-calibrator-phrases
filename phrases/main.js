@@ -437,9 +437,9 @@ export const remoteCalibratorPhrases = {
     bn: 'এর বর্ণনায় যেমন বলা হয়েছে, এই অধ্যয়নটি কেবল বিবিবি ব্রাউজারের সাথে সামঞ্জস্যপূর্ণ (কমপক্ষে ১১১ সংস্করণ) কমপক্ষে ২২২ সিপিইউ কোরের সাথে একটি ওও ডিডিডি -তে চলছে',
     id: 'Seperti yang dinyatakan dalam deskripsinya, penelitian ini hanya kompatibel dengan browser BBB (versi setidaknya 111) yang berjalan pada OOO DDD dengan setidaknya 222 core CPU',
     'zh-CN':
-      '如其描述中所述，这项研究仅与在OOO DDD上运行至少222个CPU内核的BBB浏览器（至少111版）兼容',
+      '如其描述中所述，这项研究仅与BBB浏览器（版本至少111）兼容，在OOO DDD上至少222个CPU内核兼容',
     'zh-HK':
-      '如其描述中所述，這項研究僅與BBB瀏覽器（版本至少111）兼容，在OOO DDD上至少222個CPU內核兼容',
+      '如其描述中所述，這項研究僅與在OOO DDD上運行至少222個CPU內核的BBB瀏覽器（至少111版）兼容',
     ja: 'その説明で述べたように、この研究は、少なくとも222 CPUコアでOOO DDDで実行されているBBBブラウザー（少なくとも111バージョン）とのみ互換性があります',
     ko: '설명에 언급 된 바와 같이,이 연구는 최소 222 CPU 코어가있는 OOO DDD에서 실행되는 BBB 브라우저 (버전 111) 와만 호환됩니다.',
   },
@@ -505,7 +505,7 @@ export const remoteCalibratorPhrases = {
     'en-US':
       'As stated in its description, this study is incompatible with the bbb browser(s), and runs only on a DDD with at least 222 CPU cores',
     de: 'Wie in ihrer Beschreibung angegeben, ist diese Studie nicht mit dem BBB -Browser (s) kompatibel und läuft nur auf einem DDD mit mindestens 222 CPU -Kernen',
-    fr: 'Comme indiqué dans sa description, cette étude est incompatible avec le (s) navigateur (s) BBB et ne fonctionne que sur un DDD avec au moins 222 cœurs de processeur',
+    fr: 'Comme indiqué dans sa description, cette étude est incompatible avec le (s) navigateur (s) BBB, et ne fonctionne que sur un DDD avec au moins 222 cœurs de processeur',
     es: 'Como se indica en su descripción, este estudio es incompatible con los navegadores BBB, y se ejecuta solo en un DDD con al menos 222 núcleos de CPU',
     pt: 'Conforme declarado em sua descrição, este estudo é incompatível com o (s) navegador (s) BBB (s) e é executado apenas em um DDD com pelo menos 222 núcleos de CPU',
     it: 'Come affermato nella sua descrizione, questo studio è incompatibile con il browser BBB e funziona solo su un DDD con almeno 222 core CPU',
@@ -1343,7 +1343,7 @@ export const remoteCalibratorPhrases = {
     te: '1. మీ కుడి కన్ను మూసివేయండి. (ఇది స్క్రీన్ యొక్క కుడి వైపు.)\n2. మినుకుమినుకుమనే చుక్కను స్లైడ్ చేయడానికి ◀ బాణం కీని ఉపయోగించండి. క్రాస్ హెయిర్స్ వైపు చూస్తున్నప్పుడు, మీ కంటి మూలలో ఉన్న మినుకుమినుకుమనే చుక్కను పర్యవేక్షించండి మరియు మీ బ్లైండ్ స్పాట్‌లోకి అదృశ్యమయ్యే వరకు దాన్ని ఎడమ మరియు కుడి వైపుకు జారండి.\n3. రిటర్న్ హిట్.\nగమనిక: క్రాస్ వెంట్రుకలపై మీ కన్ను ఉంచండి. మీ కన్ను అనుసరించేటప్పుడు మినుకుమినుకుమనే చుక్క కనిపించదు.',
     kn: '1. ನಿಮ್ಮ ಬಲಗಣ್ಣನ್ನು ಮುಚ್ಚಿ. (ಇದು ಪರದೆಯ ಬಲಭಾಗವಾಗಿದೆ.)\n2. ಮಿನುಗುವ ಚುಕ್ಕೆ ಸ್ಲೈಡ್ ಮಾಡಲು ◀ ಬಾಣದ ಕೀಲಿಯನ್ನು ಬಳಸಿ. ಅಡ್ಡ ಕೂದಲನ್ನು ನೋಡುವಾಗ, ನಿಮ್ಮ ಕಣ್ಣಿನ ಮೂಲೆಯಲ್ಲಿರುವ ಮಿನುಗುವ ಚುಕ್ಕೆಯನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಬ್ಲೈಂಡ್‌ಸ್ಪಾಟ್‌ಗೆ ಕಣ್ಮರೆಯಾಗುವವರೆಗೆ ಅದನ್ನು ಎಡ ಮತ್ತು ಬಲಕ್ಕೆ ಸ್ಲೈಡ್ ಮಾಡಿ.\n3. ರಿಟರ್ನ್ ಹಿಟ್.\nಗಮನಿಸಿ: ಅಡ್ಡ ಕೂದಲಿನ ಮೇಲೆ ಕಣ್ಣಿಡಿ. ನಿಮ್ಮ ಕಣ್ಣು ಅದನ್ನು ಅನುಸರಿಸುವಾಗ ಮಿನುಗುವ ಚುಕ್ಕೆ ಕಣ್ಮರೆಯಾಗುವುದಿಲ್ಲ.',
     bn: '1. আপনার ডান চোখ বন্ধ করুন। (এটি পর্দার ডান দিক))\n2. ফ্লিকারিং ডট স্লাইড করতে ◀ তীর কী ব্যবহার করুন। ক্রস কেশগুলি দেখার সময়, আপনার চোখের কোণে ফ্লিকারিং ডটটি পর্যবেক্ষণ করুন এবং এটি আপনার ব্লাইন্ডস্পটে অদৃশ্য না হওয়া পর্যন্ত বাম এবং ডানদিকে স্লাইড করুন।\n3. হিট রিটার্ন।\nদ্রষ্টব্য: ক্রস চুলের দিকে নজর রাখুন। আপনার চোখ এটি অনুসরণ করার সময় ঝলকানি বিন্দু অদৃশ্য হয়ে যাবে না।',
-    id: '1. Tutup mata kanan Anda. (Ini adalah sisi kanan layar.)\n2. Gunakan ◀ tombol panah untuk menggeser titik yang berkedip -kedip. Sambil melihat rambut salib, pantau titik -titik yang berkedip -kedip di sudut mata Anda, dan geser ke kiri dan kanan sampai menghilang ke dalam buta Anda.\n3. Tekan kembali.\nCatatan: Perhatikan rambut salib. Dot yang berkedip tidak akan hilang saat mata Anda mengikutinya.',
+    id: '1. Tutup mata kanan Anda. (Ini adalah sisi kanan layar.)\n2. Gunakan ◀ tombol panah untuk menggeser titik yang berkedip -kedip. Sambil melihat rambut salib, pantau titik -titik yang berkedip -kedip di sudut mata Anda, dan geser ke kiri dan kanan sampai menghilang ke dalam blindspot Anda.\n3. Tekan kembali.\nCatatan: Perhatikan rambut salib. Dot yang berkedip tidak akan hilang saat mata Anda mengikutinya.',
     'zh-CN':
       '1.闭上右眼。 （这是屏幕的右侧。）\n2.使用◀箭头键滑动闪烁的点。看着十字头发时，请监视眼角的闪烁点，然后向左和向右滑动，直到它消失在盲点中​​。\n3.命中返回。\n注意：请密切关注十字头发。当您的眼睛跟随它时，闪烁的点不会消失。',
     'zh-HK':
@@ -1774,7 +1774,7 @@ export const remoteCalibratorPhrases = {
     fi: 'Se on harvinaista, mutta jos tietokoneesi takertuu kalibrointiin, palauta opintosi tuotteelle.',
     ka: 'ეს იშვიათია, მაგრამ თუ თქვენი კომპიუტერი ჩერდება კალიბრაციაში, გთხოვთ, დააბრუნოთ თქვენი შესწავლა Prolific.co- ზე.',
     he: 'זה נדיר, אבל אם המחשב שלך נתקע בכיול, אנא החזיר את המחקר שלך ל- prolific.co.',
-    ar: 'إنه أمر نادر الحدوث ، ولكن إذا كان جهاز الكمبيوتر الخاص بك عالقًا في المعايرة ، فيرجى إعادة دراستك إلى Prolific.co.',
+    ar: 'إنه أمر نادر الحدوث ، ولكن إذا تعثر جهاز الكمبيوتر الخاص بك في المعايرة ، فيرجى إعادة دراستك إلى Prolific.co.',
     ur: 'یہ شاذ و نادر ہی ہے ، لیکن اگر آپ کا کمپیوٹر انشانکن میں پھنس جاتا ہے تو ، براہ کرم اپنا مطالعہ prolific.co پر واپس کریں۔',
     hi: 'यह दुर्लभ है, लेकिन यदि आपका कंप्यूटर अंशांकन में फंस जाता है, तो कृपया अपना अध्ययन prolific.co पर लौटाएं।',
     ta: 'இது அரிதானது, ஆனால் உங்கள் கணினி அளவுத்திருத்தத்தில் சிக்கிக்கொண்டால், தயவுசெய்து உங்கள் ஆய்வை plemific.co க்கு திருப்பி விடுங்கள்.',
