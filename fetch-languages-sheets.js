@@ -27,6 +27,7 @@ async function processLanguageSheet() {
   const data = {}
   for (let phrase of rowsJSON) {
     const { language, ...translations } = phrase
+    
     if (
       (language.includes('RC_') || language.includes('EE_')) &&
       !language.includes('_soundCalibration')
